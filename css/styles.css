@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 30;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family: bondoni black;
+}
+ul {
+  line-height: 40px;
+}
+body {
+   background-color: #d25dff;
+}
